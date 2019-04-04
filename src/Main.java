@@ -1,6 +1,16 @@
 public class Main {
 
+
     public static void main(String[] args) {
-	// write your code here
+
+        udskriv("Joshua");
+
     }
+
+    public static void udskriv(String hilsen) {
+
+        System.out.println(hilsen);
+
+    }
+
 }
